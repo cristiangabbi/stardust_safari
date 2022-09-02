@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c42ee21e61c231d4782b8b2f444109ec, type: 3}
+  m_Name: TmpNoise1
+  m_EditorClassIdentifier: 
+  type: 0
+  baseFrequency: 1.17
+  frequency: 4.51
+  amplitude: 0.177
+  strength: 1.18
+  redistribution: 1.56
+  minHeight: 0.49
+  center: {x: 0, y: 0, z: 0}
+  detailLayers: 2

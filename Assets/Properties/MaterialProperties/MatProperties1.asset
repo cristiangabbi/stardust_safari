@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f6c76e6b3b28f94787b13f5dd47bdab, type: 3}
+  m_Name: MatProperties1
+  m_EditorClassIdentifier: 
+  planetMaterial: {fileID: 2100000, guid: d9738e646981cbf4a92597f919df8a2c, type: 2}
+  texProperties:
+  - {fileID: 11400000, guid: c2e42b21678d9f34597dcf5998d78515, type: 2}
+  - {fileID: 11400000, guid: 4198928ca4588524da4e3d20a60a1f8a, type: 2}
+  - {fileID: 11400000, guid: 4198928ca4588524da4e3d20a60a1f8a, type: 2}
+  blendingRate: 0.5
+  normalStrength: 1.08
+  normalTiling: {x: 11, y: 11}
+  normalOffset: {x: 12, y: 12}
+  emissiveTiling: {x: 11, y: 11}
+  emissiveOffset: {x: 12, y: 12}
+  emissionStrenght: 0.1

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 164b7f6708d226b408d1e253279d4434, type: 3}
+  m_Name: Tex4
+  m_EditorClassIdentifier: 
+  albedo: {r: 0.2924528, g: 0.023201833, b: 0.017933436, a: 0}
+  normal: {fileID: 2800000, guid: 0258a49874d37ef4ca3e716ad72fd4fd, type: 3}
+  roughness: {fileID: 0}
+  ambientOcclusion: {fileID: 0}
+  heightmap: {fileID: 0}
+  emissive: {fileID: 2800000, guid: c65e186198f501046a0aba89c6335cac, type: 3}
+  metallic: 0
+  smoothness: 0
+  startSlope: 0
+  endSlope: 0
+  heightMax: 0
+  heightMin: 0

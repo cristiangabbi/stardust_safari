@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f53bec9dddc64fc44bc138ac415657f5, type: 3}
+  m_Name: Planet5Properties
+  m_EditorClassIdentifier: 
+  planetRadius: 20
+  resolution: 35
+  noiseProperties:
+  - {fileID: 11400000, guid: ef4f56df08bf33a4ba466d6983d84b04, type: 2}
+  - {fileID: 11400000, guid: c252356579840c24e8c91d06bd34708d, type: 2}
+  materialProperties: {fileID: 11400000, guid: 33a486263fe95f2449843c78d883a118, type: 2}

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GrassSway
+  m_Shader: {fileID: -6465566751694194690, guid: 9bb68a455791850489f04affa2aaa19b,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_157A8A0B:
+        m_Texture: {fileID: 2800000, guid: f1cfa9f2c660c1c4db776f3e9ee87589, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_2B7283C9:
+        m_Texture: {fileID: 2800000, guid: dc2c8e41f8e17fc48a2098f86487bf1a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_4D87A781:
+        m_Texture: {fileID: 2800000, guid: d426d76ce36836345aac068f978ce567, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_7AD9264C: 0.4
+    - Vector1_996882A7: 0.3
+    m_Colors:
+    - Vector2_A4D7E6C0: {r: 5, g: 0, b: 0, a: 0}
+    - Vector3_7922ADEC: {r: 0.2, g: 0.3, b: 0.05, a: 0}

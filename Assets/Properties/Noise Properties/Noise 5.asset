@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c42ee21e61c231d4782b8b2f444109ec, type: 3}
+  m_Name: Noise 5
+  m_EditorClassIdentifier: 
+  type: 1
+  baseFrequency: 1.26
+  frequency: 2.33
+  amplitude: 0.323
+  strength: 1.08
+  redistribution: 1.26
+  minHeight: 1.14
+  center: {x: 1.89, y: 20.2, z: 11.33}
+  detailLayers: 7
